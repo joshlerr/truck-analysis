@@ -1,4 +1,4 @@
 # truck-analysis
-analyzed the data collected and calculated different variables   
-germany
+analyzed the data collected and calculated different variables  
+no fullstop
 
